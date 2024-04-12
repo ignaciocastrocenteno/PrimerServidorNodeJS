@@ -1,0 +1,27 @@
+{
+  "name": "primerservidornodejs",
+  "version": "1.0.0",
+  "description": "Primer Servidor en NodeJS para la materia TP2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignaciocastrocenteno/PrimerServidorNodeJS.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "NodeJS",
+    "WebServer",
+    "Web",
+    "Development",
+    "Back-End"
+  ],
+  "author": "Ignacio Castro Centeno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ignaciocastrocenteno/PrimerServidorNodeJS/issues"
+  },
+  "homepage": "https://github.com/ignaciocastrocenteno/PrimerServidorNodeJS#readme"
+}
