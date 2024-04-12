@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Primer Servidor en NodeJS para la materia TP2",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js",
     "watch": "node --watch index.js",
